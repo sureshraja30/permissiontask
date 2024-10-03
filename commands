@@ -1,0 +1,29 @@
+  cd permission_task
+  ./demo.txt
+  cd /home/suresh/permission_task
+  ls
+  chmod 764 demo.txt
+  ls -l
+  ./demo.txt
+  git init
+  git add .
+  git config --global --add safe.directory /home/suresh/permission_task
+  git commit -m "update"
+  git add .
+  git status
+  git commit -m "update"
+  git push origin main
+  git config --global user.name "sureshraja30"
+  git config --global user.email "sureshraja3007@gmail.com"
+  git push origin main
+  git branch
+  git push origin master
+  git branch -m master main
+  it checkout -b main
+  git push origin main
+  git remote -v
+  git commit -m "first commit"
+  git push origin main
+  git branch -m master main
+  git remote add origin https://github.com/sureshraja30/permissiontask.git
+  git push -u origin main
