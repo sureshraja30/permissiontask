@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "chase the dream,accept the pain"
